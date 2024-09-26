@@ -10,7 +10,7 @@ Repo for the Bouncing Ball Assignment - [CSCI2340](https://sites.google.com/brow
 ## Contributing
 
 Creator:
-- [Yongcheng Shi - B01956048](https://github.com/ZdioLex/CSCI2340-Assignment)
+- [Yongcheng Shi - B01956048](https://github.com/ZdioLex/Bouncing-Ball)
 
 
 ## License
