@@ -1,0 +1,105 @@
+London,2643743
+New York,5128581
+Tokyo,1850147
+Paris,2988507
+Sydney,2147714
+Moscow,524901
+Beijing,1816670
+Los Angeles,5368361
+Chicago,4887398
+Houston,4699066
+Philadelphia,4560349
+Phoenix,5308655
+San Antonio,4726206
+San Diego,5391811
+Dallas,4684888
+San Jose,5392171
+Austin,4671654
+Jacksonville,4160021
+San Francisco,5391959
+Columbus,4509177
+Fort Worth,4691930
+Indianapolis,4259418
+Charlotte,4460243
+Seattle,5809844
+Denver,5419384
+El Paso,5520993
+Detroit,4990729
+Washington,4140963
+Boston,4930956
+Memphis,4641239
+Nashville,4644585
+Portland,5746545
+Oklahoma City,4544349
+Las Vegas,5506956
+Baltimore,4347778
+Louisville,4299276
+Milwaukee,5263045
+Albuquerque,5454711
+Tucson,5318313
+Fresno,5350937
+Sacramento,5389489
+Kansas City,4393217
+Atlanta,4180439
+Miami,4164138
+Omaha,5074472
+Raleigh,4487042
+Colorado Springs,5417598
+Long Beach,5367929
+Virginia Beach,4791259
+Oakland,5378538
+Minneapolis,5037649
+Tulsa,4553433
+Arlington,4744709
+New Orleans,4335045
+Wichita,4281730
+Cleveland,5150529
+Tampa,4174757
+Bakersfield,5325738
+Aurora,5412347
+Honolulu,5856195
+Anaheim,5323810
+Santa Ana,5392900
+Riverside,5387877
+Corpus Christi,4683416
+Lexington,4297999
+Henderson,5505411
+Stockton,5399020
+Saint Paul,5045360
+Cincinnati,4508722
+Saint Louis,4407066
+Pittsburgh,5206379
+Greensboro,4469146
+Lincoln,5072006
+Anchorage,5879400
+Plano,4719457
+Orlando,4167147
+Irvine,5359777
+Newark,5101798
+Toledo,5174035
+Durham,4464368
+Chula Vista,5336899
+Fort Wayne,4920423
+Jersey City,5099836
+St. Petersburg,4171563
+Laredo,4705349
+Madison,5261457
+Chandler,5289282
+Buffalo,5110629
+Lubbock,5525577
+Scottsdale,5313457
+Reno,5511077
+Glendale,5295985
+Gilbert,5296266
+Winston–Salem,4499612
+North Las Vegas,5509403
+Norfolk,4776222
+Chesapeake,4752186
+Garland,4693003
+Irving,4700168
+Hialeah,4158476
+Fremont,5350734
+Boise,5586437
+Richmond,4781708
+Baton Rouge,4315588
+
