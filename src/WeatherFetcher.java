@@ -7,7 +7,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class WeatherFetcher {
-    private static final String API_KEY = "402b41e46b9b0067ac08a877b39da040"; // Replace with your API key
+    private static final String API_KEY = ""; // Replace with your API key
 
     // Fetch weather data for a list of city IDs
     public static JSONArray getWeatherDataByCityIDs(List<String> cityIDs) throws Exception {
